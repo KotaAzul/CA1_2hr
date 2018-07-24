@@ -5,7 +5,7 @@
 <Transform dim="6"
  xcoef=" 0.344470751418747 1.03562267787494 -0.0917643585700676 0 0 0"
  ycoef=" -0.620421753574391 0.0404926304335162 1.06094943595672 0 0 0">
-<Image mag="0.00217968" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00217968" contrast="2.183" brightness="-0.635" red="true" green="true" blue="true"
  src="FWNGV.10.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,

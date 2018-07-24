@@ -4891,7 +4891,7 @@
 <Transform dim="6"
  xcoef=" 0.461316365937076 0.954343232367044 -0.0732179161009811 0 0 0"
  ycoef=" -0.774960951809419 0.049584585749238 1.0809734313167 0 0 0">
-<Image mag="0.00217968" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00217968" contrast="2.183" brightness="-0.635" red="true" green="true" blue="true"
  src="FWNGV.29.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
@@ -5016,7 +5016,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d01ax11_dch" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
+<Contour name="dch_d01ax11" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
  points="4.44016 6.35166,
 	4.44705 6.33593,
 	4.45 6.32806,

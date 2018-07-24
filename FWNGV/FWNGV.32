@@ -5,7 +5,7 @@
 <Transform dim="6"
  xcoef=" 0.41255041994024 0.949523818794895 -0.0657799669543758 0 0 0"
  ycoef=" -0.609476084744244 0.0378963141423675 1.06048065974515 0 0 0">
-<Image mag="0.00217968" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00217968" contrast="2.183" brightness="-0.635" red="true" green="true" blue="true"
  src="FWNGV.32.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
@@ -5150,7 +5150,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d02" hidden="true" closed="true" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="9"
+<Contour name="d02" hidden="false" closed="true" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="9"
  points="4.61478 6.44901,
 	4.64594 6.42175,
 	4.65762 6.41397,
@@ -5196,7 +5196,7 @@
 	4.61478 6.46459,
 	4.61478 6.45291,
 	"/>
-<Contour name="D12" hidden="true" closed="true" simplified="true" border="0.502 0 1" fill="0.502 0 1" mode="-9"
+<Contour name="D12" hidden="false" closed="true" simplified="true" border="0.502 0 1" fill="0.502 0 1" mode="-9"
  points="4.44902 6.13678,
 	4.45458 6.11685,
 	4.4707 6.09887,
@@ -5217,7 +5217,7 @@
 	4.49581 6.18894,
 	4.4707 6.17468,
 	"/>
-<Contour name="d02SER" hidden="true" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="-9"
+<Contour name="d02SER" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="-9"
  points="4.18524 6.46586,
 	4.18729 6.44942,
 	4.19551 6.43298,
@@ -5236,7 +5236,7 @@
 	4.18524 6.48435,
 	4.18524 6.46791,
 	"/>
-<Contour name="d02" hidden="true" closed="true" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="9"
+<Contour name="d02" hidden="false" closed="true" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="9"
  points="3.40697 6.51395,
 	3.41219 6.50351,
 	3.43306 6.48525,
@@ -5338,7 +5338,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d01ax11_dch" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
+<Contour name="dch_d01ax11" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
  points="4.43342 6.37691,
 	4.43991 6.36538,
 	4.45144 6.35457,
