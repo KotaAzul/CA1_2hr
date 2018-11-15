@@ -2694,7 +2694,7 @@
 	4.99006 3.64747,
 	5.00585 3.66326,
 	"/>
-<Contour name="d01ax22" hidden="false" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="-11"
+<Contour name="d01ax22" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="-11"
  points="6.1029 3.62481,
 	6.11149 3.60763,
 	6.14156 3.57756,
@@ -4791,7 +4791,7 @@
 	5.90051 5.0381,
 	5.95486 5.09245,
 	"/>
-<Contour name="d01ax22" hidden="false" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="-11"
+<Contour name="d01ax22" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="-11"
  points="5.81086 4.06717,
 	5.84522 4.0414,
 	5.8624 4.03711,

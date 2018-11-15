@@ -4406,7 +4406,7 @@
 <Transform dim="6"
  xcoef=" 0.470482058434324 0.904679472309732 -0.0547255110837388 0 0 0"
  ycoef=" -0.0499008163450949 0.0598731813694437 1.03162342468003 0 0 0">
-<Image mag="0.00223486" contrast="1.248" brightness="-0.105" red="true" green="true" blue="true"
+<Image mag="0.00223486" contrast="2.108" brightness="-0.54" red="true" green="true" blue="true"
  src="XRZCT.29.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
@@ -4656,6 +4656,20 @@
 	8.04013 3.66088,
 	7.90206 3.62798,
 	7.89397 3.62582,
+	"/>
+</Transform>
+
+<Transform dim="1"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" -0.84 0 1 0 0 0">
+<Contour name="scalecube" hidden="false" closed="true" simplified="false" border="0.501961 0.501961 0.501961" fill="0.501961 0.501961 0.501961" mode="11"
+ points="7.25215 4.06974,
+	7.27161 4.05028,
+	7.19377 3.97244,
+	7.21323 3.95298,
+	7.29107 4.03082,
+	7.31053 4.01136,
+	7.31053 4.06974,
 	"/>
 </Transform>
 

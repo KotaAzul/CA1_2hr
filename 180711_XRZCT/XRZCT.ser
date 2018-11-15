@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="120" viewport="-3.13007 2.45432 0.00770883"
+<Series index="148" viewport="4.10598 5.03686 0.00223021"
 	units=""
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -32,8 +32,8 @@
 	defaultBorder="0.000 1.000 1.000"
 	defaultFill="0.000 1.000 1.000"
 	defaultMode="9"
-	defaultName="dch_d08ax14"
-	defaultComment="dch traced 10.18"
+	defaultName="dch_d08ax27"
+	defaultComment="dch traced 11.18"
 	listSectionThickness="true"
 	listDomainSource="true"
 	listDomainPixelsize="true"
@@ -119,7 +119,7 @@
 	ctrlIncrement="0.00439999 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
 	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
 	>
-<Contour name="dch_d08ax14" comment="dch traced 10.18" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="9"
+<Contour name="dch_d08ax27" comment="dch traced 11.18" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="9"
  points="-3 1,
 	-3 -1,
 	-1 -3,
@@ -363,7 +363,7 @@
 	-4 12,
 	-4 4,
 	"/>
-<Contour name="d09zlen" comment="22dec2016kh redo" closed="true" border="0.000 0.000 1.000" fill="1.000 1.000 0.000" mode="11"
+<Contour name="scalecube" closed="true" border="0.502 0.502 0.502" fill="0.502 0.502 0.502" mode="11"
  points="0 12,
 	4 8,
 	-12 -8,

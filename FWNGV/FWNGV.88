@@ -2799,7 +2799,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d01ax06b2ssvr48" hidden="false" closed="true" simplified="false" border="0.502 0 1" fill="0.502 0 1" mode="9"
+<Contour name="d01ax06b2ssvr" hidden="false" closed="true" simplified="false" border="0.502 0 1" fill="0.502 0 1" mode="9"
  points="4.96745 2.74329,
 	4.94838 2.72422,
 	4.96745 2.70516,

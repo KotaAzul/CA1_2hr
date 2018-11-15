@@ -3239,7 +3239,7 @@
 	3.68019 4.50804,
 	3.69785 4.5257,
 	"/>
-<Contour name="d01ax22" hidden="false" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="-11"
+<Contour name="d01ax22" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="-11"
  points="5.66054 9.70194,
 	5.67343 9.66759,
 	5.66913 9.59887,

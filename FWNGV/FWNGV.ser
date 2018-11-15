@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="140" viewport="2.30703 1.13839 0.00460665"
+<Series index="2" viewport="-2.41167 -0.222998 0.00810457"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,11 +29,11 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="0.000 1.000 1.000"
-	defaultFill="0.502 1.000 1.000"
-	defaultMode="9"
-	defaultName="dch_d04ax32"
-	defaultComment="dch traced 08.2018"
+	defaultBorder="0.502 0.502 0.502"
+	defaultFill="0.502 0.502 0.502"
+	defaultMode="-9"
+	defaultName="Scale_Cube"
+	defaultComment=""
 	listSectionThickness="true"
 	listDomainSource="true"
 	listDomainPixelsize="true"
@@ -90,7 +90,7 @@
 		0.000 0.000 0.000,
 		"
 	offset3D="0 0 0"
-	type3Dobject="1"
+	type3Dobject="7"
 	first3Dsection="0"
 	last3Dsection="185"
 	max3Dconnection="-1"
@@ -98,8 +98,8 @@
 	lower3Dfaces="true"
 	faceNormals="false"
 	vertexNormals="true"
-	facets3D="4"
-	dim3D="0.5 0.5 0.5"
+	facets3D="32"
+	dim3D="0.046 0.046 0.046"
 	gridType="2"
 	gridSize="3.5 3.5"
 	gridDistance="1 1"
@@ -129,7 +129,7 @@
 	1 3,
 	-1 3,
 	"/>
-<Contour name="Scale_Cube$" closed="true" border="0.502 0.502 0.502" fill="0.502 0.502 0.502" mode="-9"
+<Contour name="Scale_Cube" closed="true" border="0.502 0.502 0.502" fill="0.502 0.502 0.502" mode="-9"
  points="-2 1,
 	-5 0,
 	-2 -1,
