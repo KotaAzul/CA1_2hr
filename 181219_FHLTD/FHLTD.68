@@ -3835,7 +3835,7 @@
 <Transform dim="6"
  xcoef=" 0.292824622823652 1.02093517089716 0.0169070662881824 0 0 0"
  ycoef=" -0.324297136671657 0.0342829457524877 1.00139160722455 0 0 0">
-<Image mag="0.00217507" contrast="0.917" brightness="0.12" red="true" green="true" blue="true"
+<Image mag="0.00217507" contrast="1.526" brightness="-0.3" red="true" green="true" blue="true"
  src="FHLTD.68.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
@@ -5007,7 +5007,7 @@
 
 <Transform dim="1"
  xcoef=" 0.02 1 0 0 0 0"
- ycoef=" -3.46944695195361e-018 0 1 0 0 0">
+ ycoef=" -3.46944695195361e-18 0 1 0 0 0">
 <Contour name="d01c03ax01_ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.501961" fill="0 0 1" mode="-11"
  points="6.25762 1.80143,
 	6.24772 1.79153,
