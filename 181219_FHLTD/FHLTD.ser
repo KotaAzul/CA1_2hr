@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="205" viewport="3.19775 1.66153 0.0012486"
+<Series index="211" viewport="1.47686 4.32411 0.00106867"
 	units=""
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,11 +29,11 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="0.502 1.000 1.000"
-	defaultFill="0.502 1.000 1.000"
-	defaultMode="11"
-	defaultName="dch_d01ax29b"
-	defaultComment="dch traced 1.19"
+	defaultBorder="1.000 0.000 0.000"
+	defaultFill="1.000 0.000 0.000"
+	defaultMode="9"
+	defaultName="d01c03"
+	defaultComment=""
 	listSectionThickness="true"
 	listDomainSource="true"
 	listDomainPixelsize="true"

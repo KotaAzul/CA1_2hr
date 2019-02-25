@@ -5,7 +5,7 @@
 <Transform dim="6"
  xcoef=" -0.171322086898499 0.956413140684573 0.154798506812244 0 0 0"
  ycoef=" 2.51186055421963 -0.123269819469448 0.969545698436887 0 0 0">
-<Image mag="0.00220626" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00220626" contrast="1.505" brightness="-0.39" red="true" green="true" blue="true"
  src="FPNCT.92.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,

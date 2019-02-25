@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="49" viewport="0.592077 3.93404 0.00182849"
+<Series index="40" viewport="3.36059 0.44248 0.00305539"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,10 +29,10 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="0.000 0.000 0.000"
+	defaultBorder="0.000 1.000 1.000"
 	defaultFill="0.502 0.502 0.502"
-	defaultMode="9"
-	defaultName="Scale Cube"
+	defaultMode="11"
+	defaultName="delete02"
 	defaultComment="22dec2016kh redo"
 	listSectionThickness="true"
 	listDomainSource="true"
@@ -363,7 +363,7 @@
 	-4 12,
 	-4 4,
 	"/>
-<Contour name="Scale Cube" comment="22dec2016kh redo" closed="true" border="0.000 0.000 0.000" fill="0.502 0.502 0.502" mode="9"
+<Contour name="delete02" comment="22dec2016kh redo" closed="true" border="0.000 1.000 1.000" fill="0.502 0.502 0.502" mode="11"
  points="8 8,
 	8 -8,
 	-8 -8,

@@ -6832,7 +6832,7 @@
 <Transform dim="6"
  xcoef=" -0.456284435791789 0.995494843600606 0.115101462796947 0 0 0"
  ycoef=" 3.5220522444876 -0.0758644637808135 0.856421602119996 0 0 0">
-<Image mag="0.00220626" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00220626" contrast="1.505" brightness="-0.39" red="true" green="true" blue="true"
  src="FPNCT.138.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
@@ -7048,7 +7048,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d09" hidden="true" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="11"
+<Contour name="d09" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="11"
  points="6.69106 -0.195584,
 	6.69704 -0.230567,
 	6.69683 -0.248044,
