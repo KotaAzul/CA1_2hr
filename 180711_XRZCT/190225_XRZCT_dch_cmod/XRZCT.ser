@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="11" viewport="2.32441 2.03032 0.00364813"
+<Series index="104" viewport="4.00346 4.60672 0.000457456"
 	units=""
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,10 +29,10 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="0.000 1.000 0.000"
-	defaultFill="0.000 1.000 0.000"
-	defaultMode="11"
-	defaultName="d05ax24ssvr"
+	defaultBorder="1.000 0.000 0.000"
+	defaultFill="1.000 0.000 0.000"
+	defaultMode="9"
+	defaultName="d01c03"
 	defaultComment=""
 	listSectionThickness="true"
 	listDomainSource="true"

@@ -574,26 +574,6 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d02c18" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
- points="9.12819 1.70433,
-	9.13728 1.6922,
-	9.14941 1.68614,
-	9.19794 1.68917,
-	9.2222 1.7013,
-	9.24343 1.72253,
-	9.27375 1.77105,
-	9.27982 1.77712,
-	9.27982 1.80138,
-	9.27982 1.80744,
-	9.27072 1.81957,
-	9.25859 1.82564,
-	9.23433 1.82564,
-	9.21007 1.80441,
-	9.20097 1.79228,
-	9.17671 1.77712,
-	9.13122 1.73163,
-	9.12819 1.70737,
-	"/>
 <Contour name="d02cfa18a" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="9"
  points="9.26881 1.81302,
 	9.25062 1.75844,
@@ -6035,7 +6015,7 @@
 <Transform dim="6"
  xcoef=" 0.96395736241289 0.75760569992325 -0.000103087999234718 0 0 0"
  ycoef=" 0.0982951723149439 0.054347173191009 1.09151804594869 0 0 0">
-<Image mag="0.00223486" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
  src="XRZCT.71.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
@@ -9603,6 +9583,49 @@
 <Contour name="mito5_KH(bad)" comment="KH30June2016no axon cytoplasm on section 71 to be sure what is happening on sect 72" hidden="false" closed="false" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="13"
  points="6.24473 4.34757,
 	6.32874 4.593,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d02c18" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
+ points="9.11521 1.72047,
+	9.15086 1.69122,
+	9.15978 1.6837,
+	9.16869 1.67673,
+	9.16925 1.67646,
+	9.18708 1.68426,
+	9.19599 1.68788,
+	9.20045 1.69038,
+	9.21828 1.70515,
+	9.22719 1.71239,
+	9.23165 1.71601,
+	9.23527 1.72019,
+	9.25951 1.75585,
+	9.26564 1.76476,
+	9.26842 1.76922,
+	9.26981 1.77814,
+	9.27065 1.78705,
+	9.27204 1.79596,
+	9.27455 1.80488,
+	9.27566 1.80934,
+	9.27594 1.81045,
+	9.27622 1.81101,
+	9.27399 1.81212,
+	9.23834 1.82494,
+	9.23388 1.82661,
+	9.23165 1.82744,
+	9.23054 1.82772,
+	9.22162 1.81992,
+	9.20519 1.80237,
+	9.18931 1.78454,
+	9.18095 1.77563,
+	9.14529 1.7461,
+	9.12746 1.73106,
+	9.11855 1.72381,
+	9.11632 1.72186,
+	9.11548 1.72075,
 	"/>
 </Transform>
 

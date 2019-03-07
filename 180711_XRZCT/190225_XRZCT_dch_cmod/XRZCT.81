@@ -6266,20 +6266,6 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d02c18b" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
- points="8.17528 2.30603,
-	8.20086 2.28045,
-	8.21548 2.28045,
-	8.2301 2.28776,
-	8.23741 2.29142,
-	8.24106 2.34989,
-	8.23741 2.37913,
-	8.20817 2.38278,
-	8.19355 2.37913,
-	8.17528 2.35354,
-	8.17528 2.32431,
-	8.17528 2.30969,
-	"/>
 <Contour name="dch_d02ax18b" comment="dch traced 12.18" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="9"
  points="8.22648 2.39819,
 	8.22909 2.37025,
@@ -7555,19 +7541,6 @@
 	"/>
 </Transform>
 
-<Transform dim="6"
- xcoef=" 0.744170772789651 0.763492009263799 0.00308227021581238 0 0 0"
- ycoef=" 0.270146995347473 0.0183862400758727 1.10452531793789 0 0 0">
-<Image mag="0.00223486" contrast="1" brightness="0" red="true" green="true" blue="true"
- src="XRZCT.81.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4083 0,
-	4083 4083,
-	0 4083,
-	"/>
-</Transform>
-
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
@@ -8416,6 +8389,50 @@
 	6.02277 4.61201,
 	6.0216 4.5932,
 	6.0216 4.58497,
+	"/>
+</Transform>
+
+<Transform dim="6"
+ xcoef=" 0.744170772789651 0.763492009263799 0.00308227021581238 0 0 0"
+ ycoef=" 0.270146995347473 0.0183862400758727 1.10452531793789 0 0 0">
+<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
+ src="XRZCT.81.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4083 0,
+	4083 4083,
+	0 4083,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d02c18b" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
+ points="8.19262 2.31999,
+	8.20646 2.28148,
+	8.20827 2.27666,
+	8.20947 2.27576,
+	8.24798 2.28268,
+	8.26724 2.28629,
+	8.27205 2.28719,
+	8.27295 2.2881,
+	8.24618 2.36512,
+	8.24437 2.36993,
+	8.24016 2.37475,
+	8.23956 2.37535,
+	8.23474 2.37565,
+	8.21549 2.37415,
+	8.20586 2.37324,
+	8.20105 2.37294,
+	8.19864 2.37264,
+	8.19804 2.37234,
+	8.19473 2.35308,
+	8.19292 2.34346,
+	8.19262 2.3242,
+	8.19262 2.32179,
+	8.19262 2.32059,
+	8.19262 2.32029,
 	"/>
 </Transform>
 

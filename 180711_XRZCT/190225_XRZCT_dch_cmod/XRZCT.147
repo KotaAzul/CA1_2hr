@@ -10319,19 +10319,6 @@
 	"/>
 </Transform>
 
-<Transform dim="6"
- xcoef=" 0.432156524051501 0.831536454301008 0.0125829302278928 0 0 0"
- ycoef=" -0.117420823444255 0.0473065603014164 1.2715276126305 0 0 0">
-<Image mag="0.00223486" contrast="1" brightness="0" red="true" green="true" blue="true"
- src="XRZCT.147.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4083 0,
-	4083 4083,
-	0 4083,
-	"/>
-</Transform>
-
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
@@ -10873,6 +10860,19 @@
 	7.35316 4.76534,
 	7.36399 4.75451,
 	7.37481 4.76534,
+	"/>
+</Transform>
+
+<Transform dim="6"
+ xcoef=" 0.432156524051501 0.831536454301008 0.0125829302278928 0 0 0"
+ ycoef=" -0.117420823444255 0.0473065603014164 1.2715276126305 0 0 0">
+<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
+ src="XRZCT.147.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4083 0,
+	4083 4083,
+	0 4083,
 	"/>
 </Transform>
 

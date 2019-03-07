@@ -5469,7 +5469,7 @@
 <Transform dim="3"
  xcoef=" 0.581464241409353 0.897275662413297 -0.0653556652756051 0 0 0"
  ycoef=" -0.13514349761802 0.0549255292158523 1.04598957762963 0 0 0">
-<Image mag="0.00223486" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
  src="XRZCT.32.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
