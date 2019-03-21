@@ -635,39 +635,6 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d08c10" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
- points="5.33564 7.61364,
-	5.34173 7.60146,
-	5.35391 7.58928,
-	5.36609 7.59232,
-	5.37827 7.60146,
-	5.39046 7.60146,
-	5.43614 7.64105,
-	5.45746 7.65628,
-	5.46964 7.66541,
-	5.48182 7.68978,
-	5.47877 7.71414,
-	5.47573 7.72632,
-	5.47573 7.73241,
-	5.45137 7.73546,
-	5.43918 7.73546,
-	5.427 7.72937,
-	5.41482 7.71718,
-	5.39046 7.70196,
-	5.34477 7.65323,
-	5.33564 7.64105,
-	5.33564 7.61668,
-	"/>
-<Contour name="d08cfa10" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
- points="5.48065 7.71318,
-	5.40147 7.65532,
-	5.34056 7.6005,
-	"/>
-</Transform>
-
-<Transform dim="0"
- xcoef=" 0 1 0 0 0 0"
- ycoef=" 0 0 1 0 0 0">
 <Contour name="d10" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="9"
  points="6.67748 3.23182,
 	6.68783 3.21802,
@@ -4297,19 +4264,6 @@
 	"/>
 </Transform>
 
-<Transform dim="3"
- xcoef=" 0.826543288414331 0.826004678194763 -0.0417243486688726 0 0 0"
- ycoef=" 0.318115359406554 0.0566692241313602 1.01043584477605 0 0 0">
-<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
- src="XRZCT.63.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4083 0,
-	4083 4083,
-	0 4083,
-	"/>
-</Transform>
-
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
@@ -6693,6 +6647,19 @@
 	6.24616 3.76149,
 	6.20388 3.73926,
 	6.17034 3.70463,
+	"/>
+</Transform>
+
+<Transform dim="3"
+ xcoef=" 0.826543288414331 0.826004678194763 -0.0417243486688726 0 0 0"
+ ycoef=" 0.318115359406554 0.0566692241313602 1.01043584477605 0 0 0">
+<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
+ src="XRZCT.63.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4083 0,
+	4083 4083,
+	0 4083,
 	"/>
 </Transform>
 

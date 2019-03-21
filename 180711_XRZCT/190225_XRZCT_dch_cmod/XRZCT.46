@@ -5,7 +5,7 @@
 <Transform dim="6"
  xcoef=" 0.810218737722257 0.839476062312094 -0.0384062402967888 0 0 0"
  ycoef=" 0.17042805965656 0.0460568442850936 1.03649095818872 0 0 0">
-<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
+<Image mag="0.00223486" contrast="1.71" brightness="-0.375" red="true" green="true" blue="true"
  src="XRZCT.46.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
@@ -5384,26 +5384,6 @@
 	5.84625 3.06626,
 	5.84625 3.05936,
 	"/>
-<Contour name="d10" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="9"
- points="5.40476 3.81817,
-	5.41856 3.80782,
-	5.44615 3.79747,
-	5.45995 3.79403,
-	5.48409 3.77678,
-	5.49789 3.76643,
-	5.51168 3.76988,
-	5.52548 3.78023,
-	5.53238 3.78713,
-	5.53238 3.84231,
-	5.53238 3.86991,
-	5.53238 3.8837,
-	5.53238 3.8906,
-	5.50479 3.89405,
-	5.4496 3.8837,
-	5.4358 3.8768,
-	5.40821 3.84921,
-	5.40476 3.82162,
-	"/>
 <Contour name="d10c09a" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
  points="5.71728 2.99855,
 	5.72825 2.97661,
@@ -5472,11 +5452,6 @@
 	5.84766 3.11714,
 	5.84766 3.06776,
 	5.8504 3.02661,
-	"/>
-<Contour name="d10cfa09b" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
- points="5.48278 3.89079,
-	5.43615 3.87433,
-	5.41146 3.85238,
 	"/>
 <Contour name="d02ax10ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.251" fill="0 0 1" mode="11"
  points="6.06056 2.85386,
@@ -6616,21 +6591,6 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d10c09b" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
- points="5.3963 3.85999,
-	5.40727 3.85176,
-	5.41002 3.84627,
-	5.45391 3.84627,
-	5.46489 3.84901,
-	5.48409 3.89291,
-	5.48409 3.8984,
-	5.47312 3.90388,
-	5.42922 3.90388,
-	5.40727 3.90388,
-	5.3963 3.89565,
-	5.3963 3.8737,
-	5.3963 3.86273,
-	"/>
 <Contour name="dch_d10ax09b" comment="dch traced 11.18" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="9"
  points="4.55054 4.5657,
 	4.5533 4.55468,
@@ -7339,6 +7299,66 @@
 <Contour name="mito3_KH(ok)" hidden="false" closed="false" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="13"
  points="6.04609 4.52533,
 	6.31891 4.38057,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d10" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="9"
+ points="5.40476 3.81817,
+	5.41856 3.80782,
+	5.44615 3.79747,
+	5.45995 3.79403,
+	5.48409 3.77678,
+	5.49789 3.76643,
+	5.51168 3.76988,
+	5.52548 3.78023,
+	5.53238 3.78713,
+	5.53238 3.84231,
+	5.53238 3.86991,
+	5.53238 3.8837,
+	5.53238 3.8906,
+	5.50479 3.89405,
+	5.4496 3.8837,
+	5.4358 3.8768,
+	5.40821 3.84921,
+	5.40476 3.82162,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d10cfa09b" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
+ points="5.47131 3.88684,
+	5.44457 3.87724,
+	5.43789 3.87494,
+	5.43622 3.87431,
+	5.42285 3.86261,
+	5.41617 3.85656,
+	5.41282 3.85363,
+	5.41136 3.85238,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d10c09b" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
+ points="5.39778 3.87647,
+	5.41741 3.84974,
+	5.42222 3.84305,
+	5.42263 3.84263,
+	5.47611 3.86916,
+	5.47694 3.86958,
+	5.4688 3.89632,
+	5.46671 3.903,
+	5.46587 3.90634,
+	5.46525 3.90697,
+	5.41177 3.88295,
+	5.3984 3.8771,
+	5.39799 3.87668,
 	"/>
 </Transform>
 

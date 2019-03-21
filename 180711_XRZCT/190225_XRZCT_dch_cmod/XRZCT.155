@@ -925,31 +925,6 @@
 	6.45645 4.05422,
 	6.45645 4.03944,
 	"/>
-<Contour name="d05c24" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
- points="4.9091 4.67869,
-	4.92536 4.65971,
-	4.94705 4.65971,
-	4.95247 4.65971,
-	4.96331 4.67055,
-	4.97686 4.69224,
-	4.99584 4.70579,
-	5.01481 4.72477,
-	5.01481 4.74645,
-	5.01481 4.75187,
-	4.97144 4.75459,
-	4.9606 4.75187,
-	4.94434 4.73019,
-	4.92536 4.71664,
-	4.91452 4.70579,
-	4.9091 4.70037,
-	4.9091 4.6814,
-	"/>
-<Contour name="d05cfa24" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
- points="5.00863 4.74939,
-	4.97068 4.73042,
-	4.93816 4.68162,
-	4.93002 4.65994,
-	"/>
 <Contour name="d05p24dia" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 0" mode="9"
  points="4.97068 4.6247,
 	5.06014 4.73042,
@@ -10024,19 +9999,6 @@
 	"/>
 </Transform>
 
-<Transform dim="6"
- xcoef=" 0.561370801563063 0.83709241399609 0.0373388175134222 0 0 0"
- ycoef=" 0.252667399198711 0.0239234976867491 1.22420557254477 0 0 0">
-<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
- src="XRZCT.155.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4083 0,
-	4083 4083,
-	0 4083,
-	"/>
-</Transform>
-
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
@@ -10085,6 +10047,19 @@
 <Contour name="d01p30dia" hidden="false" closed="false" simplified="true" border="0 1 1" fill="0 1 1" mode="9"
  points="3.64202 3.32855,
 	3.56725 3.46261,
+	"/>
+</Transform>
+
+<Transform dim="6"
+ xcoef=" 0.561370801563063 0.83709241399609 0.0373388175134222 0 0 0"
+ ycoef=" 0.252667399198711 0.0239234976867491 1.22420557254477 0 0 0">
+<Image mag="0.00223486" contrast="1.97954" brightness="-0.495" red="true" green="true" blue="true"
+ src="XRZCT.155.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4083 0,
+	4083 4083,
+	0 4083,
 	"/>
 </Transform>
 

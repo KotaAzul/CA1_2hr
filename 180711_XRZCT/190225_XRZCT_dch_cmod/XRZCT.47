@@ -599,36 +599,6 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d10c09b" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
- points="5.31948 3.88193,
-	5.33869 3.85999,
-	5.34966 3.85176,
-	5.39356 3.84901,
-	5.4155 3.84901,
-	5.4594 3.85999,
-	5.48135 3.86547,
-	5.49232 3.87096,
-	5.50055 3.89291,
-	5.49781 3.9368,
-	5.47586 3.95326,
-	5.43196 3.95052,
-	5.41002 3.94778,
-	5.38807 3.93406,
-	5.3771 3.92309,
-	5.3332 3.8984,
-	5.32223 3.89016,
-	5.31948 3.88468,
-	"/>
-<Contour name="d10cfa09b" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
- points="5.49924 3.90176,
-	5.41146 3.88256,
-	5.32641 3.8661,
-	"/>
-</Transform>
-
-<Transform dim="0"
- xcoef=" 0 1 0 0 0 0"
- ycoef=" 0 0 1 0 0 0">
 <Contour name="d10plinn09" hidden="false" closed="true" simplified="false" border="0 0 1" fill="0 0 1" mode="-13"
  points="6.91149 3.51363,
 	6.8646 3.46673,
@@ -5647,19 +5617,6 @@
 	"/>
 </Transform>
 
-<Transform dim="6"
- xcoef=" 0.952495682002778 0.827500734206847 -0.0441463310707461 0 0 0"
- ycoef=" 0.0518037336696489 0.0588629317383387 1.04252915611612 0 0 0">
-<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
- src="XRZCT.47.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4083 0,
-	4083 4083,
-	0 4083,
-	"/>
-</Transform>
-
 <Transform dim="1"
  xcoef=" -0.59 1 0 0 0 0"
  ycoef=" 0.26 0 1 0 0 0">
@@ -7500,6 +7457,56 @@
 <Contour name="mito3_KH(ok)" hidden="false" closed="false" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="13"
  points="6.04609 4.52533,
 	6.31891 4.38057,
+	"/>
+</Transform>
+
+<Transform dim="6"
+ xcoef=" 0.952495682002778 0.827500734206847 -0.0441463310707461 0 0 0"
+ ycoef=" 0.0518037336696489 0.0588629317383387 1.04252915611612 0 0 0">
+<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
+ src="XRZCT.47.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4083 0,
+	4083 4083,
+	0 4083,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d10cfa09b" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
+ points="5.49942 3.9015,
+	5.34965 3.87049,
+	5.34029 3.86874,
+	5.33853 3.86815,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d10c09b" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
+ points="5.32872 3.9316,
+	5.34101 3.85671,
+	5.34276 3.84735,
+	5.34335 3.84267,
+	5.34393 3.84033,
+	5.34452 3.83916,
+	5.49429 3.86666,
+	5.50366 3.86841,
+	5.506 3.869,
+	5.50658 3.87017,
+	5.48903 3.94506,
+	5.48669 3.95442,
+	5.4861 3.95676,
+	5.4861 3.95793,
+	5.48376 3.95851,
+	5.40888 3.9474,
+	5.33399 3.93453,
+	5.32931 3.93394,
+	5.32872 3.93219,
 	"/>
 </Transform>
 

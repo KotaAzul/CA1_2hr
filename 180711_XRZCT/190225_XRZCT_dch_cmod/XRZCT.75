@@ -718,27 +718,6 @@
 	5.37586 7.35242,
 	5.37586 7.33332,
 	"/>
-<Contour name="d08c10" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
- points="5.36 7.36087,
-	5.37218 7.35173,
-	5.39655 7.34868,
-	5.40873 7.34868,
-	5.427 7.37305,
-	5.43309 7.37914,
-	5.43309 7.4035,
-	5.43309 7.41568,
-	5.43309 7.42178,
-	5.427 7.42787,
-	5.40264 7.42787,
-	5.39046 7.42178,
-	5.36914 7.39741,
-	5.36 7.38523,
-	5.36 7.36391,
-	"/>
-<Contour name="d08cfa10" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
- points="5.43192 7.41168,
-	5.36188 7.35991,
-	"/>
 <Contour name="d10cfa15a" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
  points="5.77359 3.36405,
 	5.77359 3.31741,
@@ -6556,7 +6535,7 @@
 <Transform dim="6"
  xcoef=" 1.11763553091424 0.738941060940854 -0.0374162037357197 0 0 0"
  ycoef=" 0.154359241876265 0.0518229637179633 1.09372460498465 0 0 0">
-<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
+<Image mag="0.00223486" contrast="1.19416" brightness="-0.225" red="true" green="true" blue="true"
  src="XRZCT.75.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,

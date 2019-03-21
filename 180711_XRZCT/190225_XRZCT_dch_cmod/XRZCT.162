@@ -373,44 +373,6 @@
 	5.18011 5.28276,
 	5.18011 5.27321,
 	"/>
-<Contour name="d08c26" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
- points="6.5641 5.60516,
-	6.57417 5.59509,
-	6.5943 5.58502,
-	6.63457 5.54978,
-	6.65471 5.53468,
-	6.66478 5.52713,
-	6.71511 5.45163,
-	6.72518 5.44659,
-	6.74532 5.44659,
-	6.75538 5.44659,
-	6.76545 5.45414,
-	6.77049 5.45666,
-	6.77049 5.47679,
-	6.77049 5.48686,
-	6.7428 5.52713,
-	6.71008 5.5674,
-	6.70253 5.57747,
-	6.6975 5.57747,
-	6.68994 5.58754,
-	6.68491 5.58754,
-	6.67484 5.59761,
-	6.66981 5.60264,
-	6.65974 5.60516,
-	6.61947 5.63033,
-	6.5792 5.63284,
-	6.56913 5.62781,
-	6.5641 5.62277,
-	6.5641 5.61271,
-	6.5641 5.60767,
-	"/>
-<Contour name="d08cfa26" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
- points="6.5781 5.63379,
-	6.62592 5.59855,
-	6.67375 5.55073,
-	6.70898 5.50291,
-	6.72157 5.44502,
-	"/>
 <Contour name="d08rb25" comment="28SEP2016KHokay" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="5.47034 5.19488,
 	5.47034 5.18788,
@@ -10122,19 +10084,6 @@
 	"/>
 </Transform>
 
-<Transform dim="6"
- xcoef=" 0.608109764047557 0.822253854246822 0.0711946008485511 0 0 0"
- ycoef=" 0.0954568872881041 0.0183909665209668 1.27104418182478 0 0 0">
-<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
- src="XRZCT.162.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4083 0,
-	4083 4083,
-	0 4083,
-	"/>
-</Transform>
-
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
@@ -10316,6 +10265,19 @@
 	5.20527 4.55895,
 	5.21442 4.54979,
 	5.22358 4.55895,
+	"/>
+</Transform>
+
+<Transform dim="6"
+ xcoef=" 0.608109764047557 0.822253854246822 0.0711946008485511 0 0 0"
+ ycoef=" 0.0954568872881041 0.0183909665209668 1.27104418182478 0 0 0">
+<Image mag="0.00223486" contrast="1.19416" brightness="-0.18" red="true" green="true" blue="true"
+ src="XRZCT.162.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4083 0,
+	4083 4083,
+	0 4083,
 	"/>
 </Transform>
 

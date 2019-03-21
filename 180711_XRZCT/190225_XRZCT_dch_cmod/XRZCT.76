@@ -729,13 +729,6 @@
 	8.74857 2.27235,
 	8.74857 2.26424,
 	"/>
-<Contour name="d10cfa16" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
- points="8.4347 1.94022,
-	8.37435 1.94296,
-	8.31674 1.95119,
-	8.23992 1.99509,
-	8.20974 2.01978,
-	"/>
 <Contour name="d05" hidden="false" closed="true" simplified="true" border="1 1 0" fill="1 1 0" mode="9"
  points="3.28241 6.42356,
 	3.30259 6.39666,
@@ -6004,32 +5997,6 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d10c16" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
- points="8.18637 1.99172,
-	8.23026 1.96429,
-	8.27415 1.94234,
-	8.27964 1.94234,
-	8.29062 1.93411,
-	8.2961 1.93411,
-	8.30708 1.92588,
-	8.35097 1.91216,
-	8.43876 1.90942,
-	8.44973 1.91491,
-	8.45248 1.93685,
-	8.43053 1.95332,
-	8.41133 1.96155,
-	8.41133 1.96703,
-	8.38938 1.96978,
-	8.34548 1.98898,
-	8.30159 2.0027,
-	8.27964 2.01641,
-	8.23575 2.02464,
-	8.2138 2.02464,
-	8.20283 2.02464,
-	8.19734 2.02464,
-	8.18637 2.01367,
-	8.18637 1.99447,
-	"/>
 <Contour name="dch_d10ax16" comment="dch traced 11.18" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="9"
  points="6.16094 1.7414,
 	6.17538 1.70839,
@@ -9131,19 +9098,6 @@
 	"/>
 </Transform>
 
-<Transform dim="3"
- xcoef=" 0.972554526401344 0.748460394536555 0.0149618255741945 0 0 0"
- ycoef=" 0.18747774187967 0.0328751968878792 1.10084665639732 0 0 0">
-<Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
- src="XRZCT.76.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4083 0,
-	4083 4083,
-	0 4083,
-	"/>
-</Transform>
-
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
@@ -9189,6 +9143,55 @@
 	3.04465 5.79136,
 	3.04428 5.7899,
 	3.04391 5.78916,
+	"/>
+</Transform>
+
+<Transform dim="3"
+ xcoef=" 0.972554526401344 0.748460394536555 0.0149618255741945 0 0 0"
+ ycoef=" 0.18747774187967 0.0328751968878792 1.10084665639732 0 0 0">
+<Image mag="0.00223486" contrast="1.39281" brightness="-0.225" red="true" green="true" blue="true"
+ src="XRZCT.76.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4083 0,
+	4083 4083,
+	0 4083,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d10cfa16" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
+ points="8.39555 1.94215,
+	8.36394 1.94413,
+	8.33233 1.94907,
+	8.31653 1.95104,
+	8.2533 1.98759,
+	8.2375 1.99747,
+	8.22169 2.01031,
+	8.21379 2.01723,
+	8.20984 2.02019,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d10c16" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
+ points="8.18234 1.98656,
+	8.30879 1.9263,
+	8.37201 1.89667,
+	8.40559 1.95989,
+	8.40658 1.96187,
+	8.39078 1.97076,
+	8.26433 2.02311,
+	8.23272 2.03694,
+	8.22482 2.03991,
+	8.19913 2.00829,
+	8.18728 1.99249,
+	8.18432 1.98854,
+	8.18333 1.98755,
 	"/>
 </Transform>
 
