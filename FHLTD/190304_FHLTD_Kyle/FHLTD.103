@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Section SYSTEM "section.dtd">
 
-<Section index="103" thickness="0.045" alignLocked="false">
+<Section index="103" thickness="0.045" alignLocked="true">
 <Transform dim="6"
  xcoef=" 0.0694827509184064 1.00171166649971 -0.0130093457137834 0 0 0"
  ycoef=" -0.149656243543495 0.022808153055616 0.997290201881954 0 0 0">
@@ -7719,7 +7719,7 @@
 <Transform dim="6"
  xcoef=" 0.816706166640203 0.973169879046347 -0.00149267268366917 0 0 0"
  ycoef=" -0.277605845635768 -0.00658516140085983 0.965307515590198 0 0 0">
-<Image mag="0.00217507" contrast="0.917" brightness="0.12" red="true" green="true" blue="true"
+<Image mag="0.00217507" contrast="2.147" brightness="-0.54" red="true" green="true" blue="true"
  src="FHLTD.103.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,

@@ -4059,7 +4059,7 @@
 <Transform dim="6"
  xcoef=" 0.334800757861207 0.995771160681154 0.0375357352152541 0 0 0"
  ycoef=" -0.308842207009509 -0.0124751232473169 0.976696378485928 0 0 0">
-<Image mag="0.00217507" contrast="1.526" brightness="-0.3" red="true" green="true" blue="true"
+<Image mag="0.00217507" contrast="2.147" brightness="-0.54" red="true" green="true" blue="true"
  src="FHLTD.107.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,

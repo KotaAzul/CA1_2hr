@@ -5,7 +5,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Image mag="0.00217507" contrast="1.526" brightness="-0.3" red="true" green="true" blue="true"
+<Image mag="0.00217507" contrast="2.147" brightness="-0.54" red="true" green="true" blue="true"
  src="FHLTD.39.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
@@ -3690,6 +3690,19 @@
 	1.47836 6.37823,
 	1.4869 6.3697,
 	1.49544 6.37823,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00217507" contrast="2.147" brightness="-0.54" red="true" green="true" blue="true"
+ src="FHLTD.100.jpg" />
+<Contour name="d06ax14Bssvr" hidden="false" closed="true" simplified="false" border="0 1 0" fill="0 1 0" mode="11"
+ points="0 0,
+	4095 0,
+	4095 4095,
+	0 4095,
 	"/>
 </Transform>
 
