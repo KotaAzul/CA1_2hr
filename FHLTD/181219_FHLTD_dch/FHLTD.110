@@ -5693,12 +5693,12 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="Brick Analysis" hidden="true" closed="false" simplified="true" border="0 1 0" fill="1 0 1" mode="9"
+<Contour name="Brick Analysis" hidden="false" closed="false" simplified="true" border="0 1 0" fill="1 0 1" mode="9"
  points="1.71891 5.78526,
 	5.23259 5.70753,
 	5.22922 2.22216,
 	"/>
-<Contour name="Brick Analysis" hidden="true" closed="false" simplified="true" border="1 0 0" fill="1 0 1" mode="9"
+<Contour name="Brick Analysis" hidden="false" closed="false" simplified="true" border="1 0 0" fill="1 0 1" mode="9"
  points="1.7206 7.5279,
 	1.71891 5.78526,
 	1.71554 2.29989,

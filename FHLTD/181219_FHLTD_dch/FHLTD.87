@@ -15,19 +15,6 @@
 	"/>
 </Transform>
 
-<Transform dim="6"
- xcoef=" 0.368924230886492 0.999790161142337 0.0310882879768352 0 0 0"
- ycoef=" -0.366247767143754 0.0117131510214226 1.0012669305039 0 0 0">
-<Image mag="0.00217507" contrast="1.526" brightness="-0.3" red="true" green="true" blue="true"
- src="FHLTD.87.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4096 0,
-	4096 4096,
-	0 4096,
-	"/>
-</Transform>
-
 <Transform dim="1"
  xcoef=" 3.36999999999997 1 0 0 0 0"
  ycoef=" 2.24 0 1 0 0 0">
@@ -3401,19 +3388,6 @@
 	"/>
 </Transform>
 
-<Transform dim="6"
- xcoef=" 0.368924230886492 0.999790161142337 0.0310882879768352 0 0 0"
- ycoef=" -0.366247767143754 0.0117131510214226 1.0012669305039 0 0 0">
-<Image mag="0.00217507" contrast="1.526" brightness="-0.3" red="true" green="true" blue="true"
- src="FHLTD.87.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4096 0,
-	4096 4096,
-	0 4096,
-	"/>
-</Transform>
-
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
@@ -6008,7 +5982,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="ax25" comment="LK bouton trace named after cfa" hidden="true" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
+<Contour name="ax25" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
  points="3.53849 3.43522,
 	3.54397 3.40598,
 	3.55037 3.39136,

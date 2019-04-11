@@ -11145,7 +11145,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="D11" hidden="true" closed="true" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="-13"
+<Contour name="D11" hidden="false" closed="true" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="-13"
  points="3.9929 5.03961,
 	3.99641 5.00618,
 	4.00819 4.97528,

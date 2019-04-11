@@ -16,19 +16,6 @@
 </Transform>
 
 <Transform dim="6"
- xcoef=" -0.967099861094809 1.15101452522016 0.0650845588511176 0 0 0"
- ycoef=" -1.41722688271463 0.0613079512892195 1.04394101032375 0 0 0">
-<Image mag="0.00217507" contrast="1.526" brightness="-0.3" red="true" green="true" blue="true"
- src="FHLTD.189.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4096 0,
-	4096 4096,
-	0 4096,
-	"/>
-</Transform>
-
-<Transform dim="6"
  xcoef=" -0.902125353568185 1.0081619887597 -0.021891705946757 0 0 0"
  ycoef=" -0.419707541914752 0.0132164509415794 0.986712221313614 0 0 0">
 <Contour name="D04" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="-13"
