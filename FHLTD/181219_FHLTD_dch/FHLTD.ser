@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="231" viewport="-1.65031 1.02675 0.00703526"
+<Series index="172" viewport="3.49796 5.76951 0.000568988"
 	units=""
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -11,7 +11,7 @@
 	hideTraces="false"
 	unhideTraces="true"
 	hideDomains="false"
-	unhideDomains="true"
+	unhideDomains="false"
 	useAbsolutePaths="false"
 	defaultThickness="0.05"
 	zMidSection="false"
@@ -29,18 +29,18 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="0.502 1.000 1.000"
-	defaultFill="0.502 1.000 1.000"
+	defaultBorder="1.000 1.000 0.000"
+	defaultFill="0.000 0.000 1.000"
 	defaultMode="11"
-	defaultName="test"
-	defaultComment="dch traced 1.19"
+	defaultName="delete stamp"
+	defaultComment=""
 	listSectionThickness="true"
 	listDomainSource="true"
 	listDomainPixelsize="true"
 	listDomainLength="false"
 	listDomainArea="false"
 	listDomainMidpoint="false"
-	listTraceComment="false"
+	listTraceComment="true"
 	listTraceLength="true"
 	listTraceArea="false"
 	listTraceCentroid="false"
@@ -50,7 +50,7 @@
 	listObjectRange="true"
 	listObjectCount="true"
 	listObjectSurfarea="false"
-	listObjectFlatarea="true"
+	listObjectFlatarea="false"
 	listObjectVolume="false"
 	listZTraceNote="true"
 	listZTraceRange="true"
@@ -90,7 +90,7 @@
 		0.000 0.000 0.000,
 		"
 	offset3D="0 0 0"
-	type3Dobject="0"
+	type3Dobject="1"
 	first3Dsection="0"
 	last3Dsection="231"
 	max3Dconnection="-1"
@@ -119,7 +119,7 @@
 	ctrlIncrement="0.00439999 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
 	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
 	>
-<Contour name="test" comment="dch traced 1.19" closed="true" border="0.502 1.000 1.000" fill="0.502 1.000 1.000" mode="11"
+<Contour name="dch_d01ax29b" comment="dch traced 1.19" closed="true" border="0.502 1.000 1.000" fill="0.502 1.000 1.000" mode="11"
  points="0 7,
 	-7 0,
 	0 -7,
