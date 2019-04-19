@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="172" viewport="3.49796 5.76951 0.000568988"
+<Series index="158" viewport="3.7204 6.28106 0.000626549"
 	units=""
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -90,7 +90,7 @@
 		0.000 0.000 0.000,
 		"
 	offset3D="0 0 0"
-	type3Dobject="1"
+	type3Dobject="0"
 	first3Dsection="0"
 	last3Dsection="231"
 	max3Dconnection="-1"
