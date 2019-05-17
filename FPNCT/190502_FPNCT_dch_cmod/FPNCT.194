@@ -2498,7 +2498,7 @@
 <Transform dim="6"
  xcoef=" 0.158337718057954 0.941420358243874 -0.0492635030614013 0 0 0"
  ycoef=" 4.69139261430768 -0.0606044912271675 0.755502025972463 0 0 0">
-<Image mag="0.00220626" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00220626" contrast="1.693" brightness="-0.435" red="true" green="true" blue="true"
  src="FPNCT.194.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,

@@ -3824,95 +3824,6 @@
 <Transform dim="6"
  xcoef=" 0.307066818375962 0.979800031292923 -0.0133874394032546 0 0 0"
  ycoef=" 0.25812387546542 0.000411002375658596 0.96030204648708 0 0 0">
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="5.08391 4.96255,
-	5.07206 4.95069,
-	5.08391 4.93884,
-	5.09577 4.95069,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="5.07883 4.93546,
-	5.06698 4.9236,
-	5.07883 4.91175,
-	5.09069 4.9236,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="5.05682 4.88466,
-	5.04497 4.8728,
-	5.05682 4.86095,
-	5.06868 4.8728,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="5.01618 4.82878,
-	5.00433 4.81693,
-	5.01618 4.80507,
-	5.02804 4.81693,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="4.97047 4.81185,
-	4.95861 4.79999,
-	4.97047 4.78814,
-	4.98232 4.79999,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="4.95184 4.86265,
-	4.93999 4.85079,
-	4.95184 4.83894,
-	4.96369 4.85079,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="4.99079 4.8728,
-	4.97893 4.86095,
-	4.99079 4.8491,
-	5.00264 4.86095,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="5.02296 4.92191,
-	5.0111 4.91006,
-	5.02296 4.8982,
-	5.03481 4.91006,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="5.02296 4.95747,
-	5.0111 4.94561,
-	5.02296 4.93376,
-	5.03481 4.94561,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="4.96708 4.93546,
-	4.95523 4.9236,
-	4.96708 4.91175,
-	4.97893 4.9236,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="4.97385 4.96932,
-	4.962 4.95747,
-	4.97385 4.94561,
-	4.98571 4.95747,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="4.92644 4.99641,
-	4.91459 4.98456,
-	4.92644 4.97271,
-	4.93829 4.98456,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="4.91967 5.0743,
-	4.90782 5.06245,
-	4.91967 5.0506,
-	4.93152 5.06245,
-	"/>
-<Contour name="d01ax11ssvr" hidden="false" closed="true" simplified="false" border="0 1 0.25098" fill="0 0 1" mode="-11"
- points="4.9112 5.19622,
-	4.89935 5.18436,
-	4.9112 5.17251,
-	4.92306 5.18436,
-	"/>
-</Transform>
-
-<Transform dim="6"
- xcoef=" 0.307066818375962 0.979800031292923 -0.0133874394032546 0 0 0"
- ycoef=" 0.25812387546542 0.000411002375658596 0.96030204648708 0 0 0">
 <Contour name="d01ax12ssvdb" hidden="false" closed="true" simplified="false" border="1 0.501961 0" fill="0 0 1" mode="-11"
  points="3.42494 2.43881,
 	3.41433 2.4282,
@@ -5049,7 +4960,7 @@
 <Transform dim="6"
  xcoef=" 0.0271829975021468 0.951029360478949 0.142672324946177 0 0 0"
  ycoef=" 2.12590333829338 -0.100465933886243 0.984829928729548 0 0 0">
-<Image mag="0.00220626" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00220626" contrast="1.693" brightness="-0.435" red="true" green="true" blue="true"
  src="FPNCT.73.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
@@ -5609,7 +5520,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d01ax14_ddh" comment="ddh_traced_2018-05-26" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
+<Contour name="d01ax14" comment="ddh_traced_2018-05-26" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
  points="1.9395 2.7767,
 	1.94789 2.72302,
 	1.95292 2.70959,
@@ -5696,7 +5607,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d01ax15_ddh" comment="ddh_traced_2018-05-29" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
+<Contour name="d01ax15" comment="ddh_traced_2018-05-29" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
  points="6.63387 4.87376,
 	6.63865 4.86739,
 	6.63865 4.8642,
@@ -5955,7 +5866,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d01ax22B_ddh" comment="ddh_traced_2018-05-31" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
+<Contour name="d01ax22B" comment="ddh_traced_2018-05-31" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
  points="4.03365 1.52995,
 	4.04144 1.51749,
 	4.04456 1.51126,
@@ -6191,7 +6102,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d03ax08_ddh" comment="ddh_traced_2018-06-04" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
+<Contour name="d03ax08" comment="ddh_traced_2018-06-04" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
  points="5.52658 2.54776,
 	5.52757 2.53983,
 	5.52956 2.5319,
@@ -6294,7 +6205,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d05ax09_ddh" comment="ddh_traced_2018-06-28" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
+<Contour name="d05ax09" comment="ddh_traced_2018-06-28" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
  points="8.89946 0.60872,
 	8.9011 0.605439,
 	8.9011 0.598876,

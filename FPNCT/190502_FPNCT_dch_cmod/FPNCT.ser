@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="125" viewport="-5.3679 -5.96386 0.0111113"
+<Series index="177" viewport="6.55581 -0.70403 0.00155204"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,11 +29,11 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="0.000 1.000 0.000"
-	defaultFill="0.000 1.000 0.000"
+	defaultBorder="0.502 1.000 0.502"
+	defaultFill="0.502 1.000 0.502"
 	defaultMode="11"
-	defaultName="d05ax17ssvr"
-	defaultComment=""
+	defaultName="d09ax02_ddh"
+	defaultComment="ddh_traced_2018-07-19"
 	listSectionThickness="true"
 	listDomainSource="true"
 	listDomainPixelsize="true"
@@ -90,7 +90,7 @@
 		0.000 0.000 0.000,
 		"
 	offset3D="0 0 0"
-	type3Dobject="1"
+	type3Dobject="0"
 	first3Dsection="0"
 	last3Dsection="202"
 	max3Dconnection="-1"

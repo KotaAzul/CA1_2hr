@@ -87,7 +87,7 @@
 <Transform dim="6"
  xcoef=" 1.52465206832643 0.842482916587755 -0.051066537178752 0 0 0"
  ycoef=" 0.121046728779486 -0.00840840361546006 0.951684864392145 0 0 0">
-<Contour name="d05c19" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+<Contour name="d05c19" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
  points="7.37091 4.23094,
 	7.39383 4.19427,
 	7.46718 4.16218,
@@ -3525,7 +3525,7 @@
 <Transform dim="6"
  xcoef=" 0.362696693646704 0.910913407814507 -0.000760047137258949 0 0 0"
  ycoef=" 4.77855676156477 -0.0647196121952584 0.762996224233257 0 0 0">
-<Image mag="0.00220626" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00220626" contrast="1.693" brightness="-0.435" red="true" green="true" blue="true"
  src="FPNCT.189.jpg" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,

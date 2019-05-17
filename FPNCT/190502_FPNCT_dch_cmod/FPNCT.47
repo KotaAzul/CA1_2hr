@@ -5010,23 +5010,10 @@
 	"/>
 </Transform>
 
-<Transform dim="3"
- xcoef=" 0.775543074112573 0.885135760279668 0.0576209063929167 0 0 0"
- ycoef=" 1.45990572921688 -0.095899801303665 0.979197367010705 0 0 0">
-<Image mag="0.00220626" contrast="1.12618" brightness="-0.225" red="true" green="true" blue="true"
- src="FPNCT.47.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4096 0,
-	4096 4096,
-	0 4096,
-	"/>
-</Transform>
-
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d01ax11_ddh" comment="ddh_traced_2018-05-22" hidden="false" closed="true" simplified="true" border="0.501961 1 0.501961" fill="0.501961 1 0.501961" mode="11"
+<Contour name="d01ax11" comment="ddh_traced_2018-05-22" hidden="false" closed="true" simplified="true" border="0.501961 1 0.501961" fill="0.501961 1 0.501961" mode="11"
  points="4.49799 1.66958,
 	4.50944 1.64669,
 	4.51087 1.6238,
@@ -5242,7 +5229,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d01ax14_ddh" comment="ddh_traced_2018-05-26" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
+<Contour name="d01ax14" comment="ddh_traced_2018-05-26" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
  points="0.213303 0.141222,
 	0.219188 0.117685,
 	0.223601 0.1118,
@@ -5398,7 +5385,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d01ax22B_ddh" comment="ddh_traced_2018-05-31" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
+<Contour name="d01ax22B" comment="ddh_traced_2018-05-31" hidden="false" closed="true" simplified="true" border="0.502 1 0.502" fill="0.502 1 0.502" mode="11"
  points="3.22246 0.824892,
 	3.22491 0.80531,
 	3.22614 0.795519,
@@ -6199,6 +6186,19 @@
 	4.44269 2.44445,
 	4.45444 2.4327,
 	4.46619 2.44445,
+	"/>
+</Transform>
+
+<Transform dim="3"
+ xcoef=" 0.775543074112573 0.885135760279668 0.0576209063929167 0 0 0"
+ ycoef=" 1.45990572921688 -0.095899801303665 0.979197367010705 0 0 0">
+<Image mag="0.00220626" contrast="1.693" brightness="-0.435" red="true" green="true" blue="true"
+ src="FPNCT.47.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4096 0,
+	4096 4096,
+	0 4096,
 	"/>
 </Transform>
 
