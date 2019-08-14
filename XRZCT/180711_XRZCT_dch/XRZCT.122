@@ -8413,4 +8413,15 @@
 	"/>
 </Transform>
 
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="delete" comment="dch traced 12.18" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="9"
+ points="6.43768 5.19594,
+	7.01515 5.19594,
+	7.01515 5.69082,
+	6.43768 5.69082,
+	"/>
+</Transform>
+
 </Section>

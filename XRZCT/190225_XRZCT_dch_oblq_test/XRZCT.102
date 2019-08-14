@@ -11311,7 +11311,7 @@
  ycoef=" -0.166926566225361 0.0207620202209773 1.18636258857543 0 0 0">
 <Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
  src="XRZCT.102.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+<Contour name="domain1" hidden="true" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
 	4083 0,
 	4083 4083,

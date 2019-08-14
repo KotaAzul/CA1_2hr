@@ -530,11 +530,6 @@
 	6.56943 5.4427,
 	6.56943 5.43792,
 	"/>
-<Contour name="d08cfa12" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
- points="6.8572 5.3895,
-	6.80847 5.35904,
-	6.73843 5.34991,
-	"/>
 <Contour name="d08p12dia" hidden="false" closed="false" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="-13"
  points="6.5892 5.40473,
 	6.80238 5.51741,
@@ -9123,7 +9118,7 @@
  ycoef=" -0.237843885005065 0.0407241265981916 1.26251916513942 0 0 0">
 <Image mag="0.00223486" contrast="1.71" brightness="-0.225" red="true" green="true" blue="true"
  src="XRZCT.121.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+<Contour name="domain1" hidden="true" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,
 	4083 0,
 	4083 4083,
@@ -9326,7 +9321,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d08c12" hidden="true" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
+<Contour name="d08c12" hidden="false" closed="true" simplified="true" border="1 0 0" fill="0 1 0" mode="9"
  points="6.72546 5.36833,
 	6.76308 5.32019,
 	6.76759 5.31417,
@@ -9343,6 +9338,16 @@
 	6.73524 5.37435,
 	6.72923 5.37059,
 	6.72622 5.36909,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d08cfa12" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="-13"
+ points="6.8572 5.3895,
+	6.80847 5.35904,
+	6.73843 5.34991,
 	"/>
 </Transform>
 
