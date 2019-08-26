@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.05" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00223443" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="CVZWG_und.000.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4097 0,
+	4097 4097,
+	0 4097,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="domain1" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="2.37407 7.90326,
+	7.6948 7.9926,
+	"/>
+<Contour name="domain2" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="2.37407 9.50146,
+	2.41378 4.29986,
+	"/>
+<Contour name="domain3" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="0.815579 2.73144,
+	6.15616 2.80092,
+	"/>
+<Contour name="domain4" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="8.24077 7.47641,
+	8.28047 2.27481,
+	"/>
+<Contour name="domain5" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="6.60286 9.56102,
+	6.65249 4.31971,
+	"/>
+<Contour name="domain6" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="3.99137 5.33402,
+	9.29834 5.39765,
+	"/>
+<Contour name="domain7" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="0.733366 8.94836,
+	0.822452 3.75593,
+	"/>
+</Transform>
+
+</Section>
