@@ -400,35 +400,6 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="Ax07" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="11"
- points="5.9599 2.3495,
-	6.01488 2.31652,
-	6.13217 2.2762,
-	6.19082 2.2652,
-	6.22014 2.26154,
-	6.24946 2.2652,
-	6.27879 2.26154,
-	6.30811 2.2652,
-	6.31544 2.2652,
-	6.32644 2.27986,
-	6.33377 2.28719,
-	6.33377 2.30186,
-	6.32644 2.31652,
-	6.29711 2.33851,
-	6.23847 2.36417,
-	6.22381 2.3715,
-	6.16516 2.38249,
-	6.04787 2.38249,
-	5.98922 2.37516,
-	5.97456 2.3715,
-	5.9599 2.3605,
-	5.9599 2.35317,
-	"/>
-</Transform>
-
-<Transform dim="0"
- xcoef=" 0 1 0 0 0 0"
- ycoef=" 0 0 1 0 0 0">
 <Contour name="Ax09" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="-11"
  points="3.15009 1.80194,
 	3.22058 1.74467,
@@ -1668,19 +1639,6 @@
 	5.25783 5.5029,
 	5.2467 5.49176,
 	5.2467 5.46948,
-	"/>
-</Transform>
-
-<Transform dim="6"
- xcoef=" 0.782838874642216 0.896965136854572 0.0546441671935111 0 0 0"
- ycoef=" 0.400840551795102 0.0109411963963246 1.02580839220206 0 0 0">
-<Image mag="0.00223443" contrast="1" brightness="0" red="true" green="true" blue="true"
- src="CVZWG_und.084.tif" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4097 0,
-	4097 4097,
-	0 4097,
 	"/>
 </Transform>
 
@@ -3661,7 +3619,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d04ax14" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="-11"
+<Contour name="d04ax14" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0 1 1" mode="-11"
  points="4.52667 5.07983,
 	4.54694 5.05955,
 	4.59038 5.03059,
@@ -3717,6 +3675,48 @@
 	4.52667 5.1001,
 	4.52667 5.08852,
 	4.52667 5.08272,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d01ax25" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="11"
+ points="5.9599 2.3495,
+	6.01488 2.31652,
+	6.13217 2.2762,
+	6.19082 2.2652,
+	6.22014 2.26154,
+	6.24946 2.2652,
+	6.27879 2.26154,
+	6.30811 2.2652,
+	6.31544 2.2652,
+	6.32644 2.27986,
+	6.33377 2.28719,
+	6.33377 2.30186,
+	6.32644 2.31652,
+	6.29711 2.33851,
+	6.23847 2.36417,
+	6.22381 2.3715,
+	6.16516 2.38249,
+	6.04787 2.38249,
+	5.98922 2.37516,
+	5.97456 2.3715,
+	5.9599 2.3605,
+	5.9599 2.35317,
+	"/>
+</Transform>
+
+<Transform dim="6"
+ xcoef=" 0.782838874642216 0.896965136854572 0.0546441671935111 0 0 0"
+ ycoef=" 0.400840551795102 0.0109411963963246 1.02580839220206 0 0 0">
+<Image mag="0.00223443" contrast="1.407" brightness="-0.21" red="true" green="true" blue="true"
+ src="CVZWG_und.084.tif" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4097 0,
+	4097 4097,
+	0 4097,
 	"/>
 </Transform>
 

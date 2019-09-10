@@ -5,7 +5,7 @@
 <Transform dim="6"
  xcoef=" 2.05706896998423 0.841746391022579 -0.00567143905830243 0 0 0"
  ycoef=" 2.37756589037038 0.0482012606273997 0.955030354637324 0 0 0">
-<Image mag="0.00223443" contrast="1" brightness="0" red="true" green="true" blue="true"
+<Image mag="0.00223443" contrast="1.407" brightness="-0.21" red="true" green="true" blue="true"
  src="CVZWG_und.198.tif" />
 <Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
  points="0 0,

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="0" thickness="0.05" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00217549" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="JYBWM.0.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4083 0,
+	4083 4083,
+	0 4083,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="domain1" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="1.38892 7.97708,
+	6.85253 8.01497,
+	"/>
+<Contour name="domain2" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="5.21572 8.53026,
+	5.20057 3.21821,
+	"/>
+<Contour name="domain3" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="3.03577 3.21084,
+	8.4836 3.21084,
+	"/>
+<Contour name="domain4" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="3.59898 9.05804,
+	3.5785 3.71261,
+	"/>
+<Contour name="domain6" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="0.311849 9.06828,
+	0.281128 3.70237,
+	"/>
+<Contour name="domain7" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="0.260647 2.11512,
+	5.75969 2.18681,
+	"/>
+</Transform>
+
+</Section>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<Series index="90" viewport="1.28255 5.75515 0.000980337"
+<Series index="54" viewport="2.17265 5.30804 0.00101048"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -29,10 +29,10 @@
 	heightUseProxies="1536"
 	scaleProxies="0.25"
 	significantDigits="6"
-	defaultBorder="0.000 1.000 0.000"
-	defaultFill="0.000 1.000 0.000"
+	defaultBorder="0.000 0.000 1.000"
+	defaultFill="0.000 0.000 1.000"
 	defaultMode="11"
-	defaultName="d04cfa19b"
+	defaultName="d04c22b"
 	defaultComment=""
 	listSectionThickness="true"
 	listDomainSource="true"
@@ -90,7 +90,7 @@
 		0.000 0.000 0.000,
 		"
 	offset3D="0 0 0"
-	type3Dobject="1"
+	type3Dobject="0"
 	first3Dsection="1"
 	last3Dsection="2147483647"
 	max3Dconnection="-1"
@@ -119,7 +119,7 @@
 	ctrlIncrement="0.0044 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
 	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
 	>
-<Contour name="d02zlen03" closed="true" border="1.000 0.500 0.000" fill="1.000 0.500 0.000" mode="9"
+<Contour name="d04cfa22b" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
  points="-3 1,
 	-3 -1,
 	-1 -3,
@@ -129,7 +129,7 @@
 	1 3,
 	-1 3,
 	"/>
-<Contour name="d04rh15_+MW" closed="true" border="0.500 0.000 1.000" fill="0.500 0.000 1.000" mode="9"
+<Contour name="d04c22b" closed="true" border="0.000 0.000 1.000" fill="0.000 0.000 1.000" mode="11"
  points="-2 1,
 	-5 0,
 	-2 -1,
