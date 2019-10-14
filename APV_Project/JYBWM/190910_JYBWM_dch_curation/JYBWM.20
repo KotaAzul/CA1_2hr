@@ -4459,10 +4459,28 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d05cfa05b" hidden="false" closed="false" simplified="false" border="0 1 0.251" fill="0 1 0" mode="11"
+<Contour name="d05ax05cfa05b" hidden="false" closed="false" simplified="false" border="0 1 0.251" fill="0 1 0" mode="11"
  points="6.62257 4.16789,
 	6.52379 4.11185,
 	6.48389 4.07861,
+	"/>
+<Contour name="d05ax05c05b" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="6.46361 4.11715,
+	6.49309 4.06165,
+	6.5087 4.0339,
+	6.51217 4.02697,
+	6.51303 4.0261,
+	6.62403 4.10327,
+	6.65178 4.12235,
+	6.65524 4.12495,
+	6.65611 4.12582,
+	6.61536 4.18131,
+	6.61015 4.18825,
+	6.60842 4.18999,
+	6.49743 4.13449,
+	6.46968 4.12062,
+	6.46621 4.11888,
+	6.46448 4.11801,
 	"/>
 </Transform>
 

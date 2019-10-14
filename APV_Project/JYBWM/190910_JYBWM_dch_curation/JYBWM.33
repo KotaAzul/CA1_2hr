@@ -2,19 +2,6 @@
 <!DOCTYPE Section SYSTEM "section.dtd">
 
 <Section index="33" thickness="0.0471499" alignLocked="true">
-<Transform dim="6"
- xcoef=" 0.608434954888262 0.998693603302143 -0.0799673976308416 0 0 0"
- ycoef=" 0.0182977842045061 0.058116053124723 1.02961829709299 0 0 0">
-<Image mag="0.00217549" contrast="1.155" brightness="0.015" red="true" green="true" blue="true"
- src="JYBWM.51.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4083 0,
-	4083 4083,
-	0 4083,
-	"/>
-</Transform>
-
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
@@ -3158,34 +3145,6 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d05c07" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
- points="4.82889 5.85746,
-	4.83971 5.84302,
-	4.85415 5.834,
-	4.91189 5.81054,
-	4.92633 5.80874,
-	4.94077 5.81054,
-	4.9534 5.82317,
-	4.9552 5.85205,
-	4.9534 5.85927,
-	4.93896 5.8719,
-	4.91009 5.88994,
-	4.88122 5.90438,
-	4.86678 5.90979,
-	4.85234 5.90979,
-	4.84874 5.90979,
-	4.8361 5.89536,
-	4.8325 5.88814,
-	4.82889 5.88453,
-	4.82889 5.87009,
-	4.82889 5.86287,
-	4.82889 5.85927,
-	"/>
-</Transform>
-
-<Transform dim="0"
- xcoef=" 0 1 0 0 0 0"
- ycoef=" 0 0 1 0 0 0">
 <Contour name="d05cfa07" hidden="false" closed="false" simplified="false" border="0 0 1" fill="1 0 0" mode="11"
  points="4.84651 5.89862,
 	4.9241 5.82824,
@@ -4691,6 +4650,46 @@
 	4.96382 6.17131,
 	4.97405 6.16108,
 	4.98428 6.17131,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="d05c07" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+ points="4.81897 5.8627,
+	4.83427 5.84788,
+	4.83809 5.84406,
+	4.84001 5.84214,
+	4.9012 5.80533,
+	4.9165 5.79577,
+	4.92415 5.79099,
+	4.92798 5.78907,
+	4.92846 5.78859,
+	4.96575 5.84979,
+	4.96623 5.85027,
+	4.90503 5.89235,
+	4.87443 5.91338,
+	4.86678 5.91864,
+	4.86487 5.9196,
+	4.86439 5.92008,
+	4.84001 5.88948,
+	4.82805 5.87418,
+	4.82184 5.86653,
+	4.81945 5.86318,
+	"/>
+</Transform>
+
+<Transform dim="6"
+ xcoef=" 0.608434954888262 0.998693603302143 -0.0799673976308416 0 0 0"
+ ycoef=" 0.0182977842045061 0.058116053124723 1.02961829709299 0 0 0">
+<Image mag="0.00217549" contrast="1.155" brightness="0.015" red="true" green="true" blue="true"
+ src="JYBWM.51.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4083 0,
+	4083 4083,
+	0 4083,
 	"/>
 </Transform>
 

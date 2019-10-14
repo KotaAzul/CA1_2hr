@@ -4427,19 +4427,6 @@
 	"/>
 </Transform>
 
-<Transform dim="6"
- xcoef=" 2.63665085323391 0.910305569757348 -0.214879706729561 0 0 0"
- ycoef=" 0.500801480843073 0.0433375672186308 1.04802589470519 0 0 0">
-<Image mag="0.00217549" contrast="1.155" brightness="0.015" red="true" green="true" blue="true"
- src="JYBWM.178.jpg" />
-<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
- points="0 0,
-	4083 0,
-	4083 4083,
-	0 4083,
-	"/>
-</Transform>
-
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
@@ -4849,6 +4836,19 @@
 	4.68827 6.73471,
 	4.68827 6.72581,
 	4.68827 6.72136,
+	"/>
+</Transform>
+
+<Transform dim="6"
+ xcoef=" 2.63665085323391 0.910305569757348 -0.214879706729561 0 0 0"
+ ycoef=" 0.500801480843073 0.0433375672186308 1.04802589470519 0 0 0">
+<Image mag="0.00217549" contrast="1.155" brightness="0.015" red="true" green="true" blue="true"
+ src="JYBWM.178.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4083 0,
+	4083 4083,
+	0 4083,
 	"/>
 </Transform>
 
