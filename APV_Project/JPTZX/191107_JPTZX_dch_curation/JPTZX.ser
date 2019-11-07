@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<!DOCTYPE Series SYSTEM "series.dtd">
+
+<Series index="60" viewport="0.984366 2.37731 0.00119595"
+	units="microns"
+	autoSaveSeries="true"
+	autoSaveSection="true"
+	warnSaveSection="true"
+	beepDeleting="true"
+	beepPaging="true"
+	hideTraces="false"
+	unhideTraces="true"
+	hideDomains="false"
+	unhideDomains="true"
+	useAbsolutePaths="false"
+	defaultThickness="0.05"
+	zMidSection="false"
+	thumbWidth="128"
+	thumbHeight="96"
+	fitThumbSections="false"
+	firstThumbSection="1"
+	lastThumbSection="2147483647"
+	skipSections="1"
+	displayThumbContours="true"
+	useFlipbookStyle="false"
+	flipRate="5"
+	useProxies="true"
+	widthUseProxies="2048"
+	heightUseProxies="1536"
+	scaleProxies="0.25"
+	significantDigits="6"
+	defaultBorder="1.000 0.502 0.000"
+	defaultFill="1.000 0.502 0.000"
+	defaultMode="-9"
+	defaultName="delete_dch"
+	defaultComment=""
+	listSectionThickness="true"
+	listDomainSource="true"
+	listDomainPixelsize="true"
+	listDomainLength="false"
+	listDomainArea="false"
+	listDomainMidpoint="false"
+	listTraceComment="true"
+	listTraceLength="true"
+	listTraceArea="false"
+	listTraceCentroid="false"
+	listTraceExtent="false"
+	listTraceZ="false"
+	listTraceThickness="false"
+	listObjectRange="true"
+	listObjectCount="true"
+	listObjectSurfarea="false"
+	listObjectFlatarea="true"
+	listObjectVolume="false"
+	listZTraceNote="true"
+	listZTraceRange="true"
+	listZTraceLength="true"
+	borderColors="0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		"
+	fillColors="0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		0.000 0.000 0.000,
+		"
+	offset3D="0.1 0.1 0"
+	type3Dobject="0"
+	first3Dsection="1"
+	last3Dsection="2147483647"
+	max3Dconnection="-1"
+	upper3Dfaces="true"
+	lower3Dfaces="true"
+	faceNormals="false"
+	vertexNormals="true"
+	facets3D="8"
+	dim3D="0.5 0.5 0.5"
+	gridType="0"
+	gridSize="0.5 0.1"
+	gridDistance="1 1"
+	gridNumber="1 1"
+	hueStopWhen="3"
+	hueStopValue="50"
+	satStopWhen="3"
+	satStopValue="50"
+	brightStopWhen="0"
+	brightStopValue="100"
+	tracesStopWhen="false"
+	areaStopPercent="999"
+	areaStopSize="0"
+	ContourMaskWidth="0"
+	smoothingLength="7"
+	mvmtIncrement="0.022 1 1 1.01 1.01 0.02 0.02 0.001 0.001"
+	ctrlIncrement="0.00439999 0.01 0.01 1.002 1.002 0.004 0.004 0.0002 0.0002"
+	shiftIncrement="0.11 100 100 1.05 1.05 0.1 0.1 0.005 0.005"
+	>
+<Contour name="delete_dch" closed="true" border="1.000 0.502 0.000" fill="1.000 0.502 0.000" mode="-9"
+ points="-3 1,
+	-3 -1,
+	-1 -3,
+	1 -3,
+	3 -1,
+	3 1,
+	1 3,
+	-1 3,
+	"/>
+<Contour name="d06rh11_+" closed="true" border="0.502 0.000 1.000" fill="0.500 0.000 1.000" mode="-9"
+ points="-2 1,
+	-5 0,
+	-2 -1,
+	-4 -4,
+	-1 -2,
+	0 -5,
+	1 -2,
+	4 -4,
+	2 -1,
+	5 0,
+	2 1,
+	4 4,
+	1 2,
+	0 5,
+	-1 2,
+	-4 4,
+	"/>
+<Contour name="d09p03dia" closed="true" border="1.000 0.000 0.502" fill="1.000 0.000 0.500" mode="-9"
+ points="-6 -6,
+	6 -6,
+	0 5,
+	"/>
+<Contour name="d09p04dia" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-9"
+ points="-7 7,
+	-2 0,
+	-7 -7,
+	-4 -7,
+	0 -1,
+	4 -7,
+	7 -7,
+	2 0,
+	7 7,
+	4 7,
+	0 1,
+	-4 7,
+	"/>
+<Contour name="d09p05dia" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-11"
+ points="8 8,
+	8 -8,
+	-8 -8,
+	-8 6,
+	-10 8,
+	-10 -10,
+	10 -10,
+	10 10,
+	-10 10,
+	-8 8,
+	"/>
+<Contour name="Ax03B02ssvr" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="0 7,
+	-7 0,
+	0 -7,
+	7 0,
+	"/>
+<Contour name="Ax05 B02 endo1" closed="true" border="1.000 0.000 1.000" fill="1.000 0.000 1.000" mode="-9"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="d09p08dia" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-9"
+ points="6 -6,
+	0 -6,
+	0 -3,
+	3 0,
+	12 3,
+	6 6,
+	3 12,
+	-3 6,
+	-6 0,
+	-6 -6,
+	-12 -6,
+	-3 -12,
+	"/>
+<Contour name="d06cfa04b" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="11"
+ points="-12 4,
+	-12 -4,
+	-4 -4,
+	-4 -12,
+	4 -12,
+	4 -4,
+	12 -4,
+	12 4,
+	4 4,
+	4 12,
+	-4 12,
+	-4 4,
+	"/>
+<Contour name="d02ax15" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="-11"
+ points="0 12,
+	4 8,
+	-12 -8,
+	-8 -12,
+	8 4,
+	12 0,
+	12 12,
+	"/>
+<Contour name="d09p11dia" closed="true" border="0.000 1.000 0.251" fill="0.000 1.000 0.000" mode="-9"
+ points="-3 1,
+	-3 -1,
+	-1 -3,
+	1 -3,
+	3 -1,
+	3 1,
+	1 3,
+	-1 3,
+	"/>
+<Contour name="d09p12dia" closed="true" border="0.500 0.000 1.000" fill="0.500 0.000 1.000" mode="-9"
+ points="-2 1,
+	-5 0,
+	-2 -1,
+	-4 -4,
+	-1 -2,
+	0 -5,
+	1 -2,
+	4 -4,
+	2 -1,
+	5 0,
+	2 1,
+	4 4,
+	1 2,
+	0 5,
+	-1 2,
+	-4 4,
+	"/>
+<Contour name="d09p13dia" closed="true" border="1.000 0.000 0.500" fill="1.000 0.000 0.500" mode="-9"
+ points="-6 -6,
+	6 -6,
+	0 5,
+	"/>
+<Contour name="d09p14dia" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-13"
+ points="-7 7,
+	-2 0,
+	-7 -7,
+	-4 -7,
+	0 -1,
+	4 -7,
+	7 -7,
+	2 0,
+	7 7,
+	4 7,
+	0 1,
+	-4 7,
+	"/>
+<Contour name="d09p15dia" closed="true" border="1.000 1.000 0.000" fill="1.000 1.000 0.000" mode="-13"
+ points="8 8,
+	8 -8,
+	-8 -8,
+	-8 6,
+	-10 8,
+	-10 -10,
+	10 -10,
+	10 10,
+	-10 10,
+	-8 8,
+	"/>
+<Contour name="d09ax05ssvd" closed="true" border="1.000 0.502 0.000" fill="0.000 0.000 1.000" mode="11"
+ points="0 7,
+	-7 0,
+	0 -7,
+	7 0,
+	"/>
+<Contour name="d09p17dia" closed="true" border="1.000 0.000 1.000" fill="1.000 0.000 1.000" mode="-9"
+ points="-6 2,
+	-6 -2,
+	-2 -6,
+	2 -6,
+	6 -2,
+	6 2,
+	2 6,
+	-2 6,
+	"/>
+<Contour name="d09p18dia" closed="true" border="1.000 0.000 0.000" fill="1.000 0.000 0.000" mode="-9"
+ points="6 -6,
+	0 -6,
+	0 -3,
+	3 0,
+	12 3,
+	6 6,
+	3 12,
+	-3 6,
+	-6 0,
+	-6 -6,
+	-12 -6,
+	-3 -12,
+	"/>
+<Contour name="d09c13" closed="true" border="0.000 1.000 0.000" fill="0.000 1.000 0.000" mode="-9"
+ points="-12 4,
+	-12 -4,
+	-4 -4,
+	-4 -12,
+	4 -12,
+	4 -4,
+	12 -4,
+	12 4,
+	4 4,
+	4 12,
+	-4 12,
+	-4 4,
+	"/>
+<Contour name="d09cfa13" closed="true" border="0.000 1.000 1.000" fill="0.000 1.000 1.000" mode="-9"
+ points="0 12,
+	4 8,
+	-12 -8,
+	-8 -12,
+	8 4,
+	12 0,
+	12 12,
+	"/>
+<ZContour name="d01zlen01" closed="false" border="0.251 0.000 0.502" fill="1.000 0.500 0.000" mode="-9"
+ points="2.86962 3.57073 164,
+	3.04373 3.65141 158,
+	3.66796 3.93593 135,
+	4.27097 4.08031 110,
+	5.12027 4.21195 93,
+	6.01204 4.38606 73,
+	6.75093 4.44127 47,
+	7.4049 4.47099 8,
+	"/>
+<ZContour name="d01zlen02" closed="false" border="0.251 0.000 0.502" fill="1.000 0.500 0.000" mode="-9"
+ points="7.38791 4.44976 8,
+	6.93778 4.53044 43,
+	6.46217 4.3988 63,
+	5.6978 4.35633 78,
+	4.83151 4.23743 98,
+	4.03741 4.0888 116,
+	3.48112 3.81703 141,
+	2.85263 3.60046 164,
+	"/>
+<ZContour name="d01zlen03" closed="false" border="0.251 0.000 0.502" fill="1.000 0.500 0.000" mode="-9"
+ points="2.86537 3.57073 164,
+	3.04797 3.6684 158,
+	3.67221 3.95292 135,
+	4.30069 4.09305 109,
+	5.13301 4.22045 93,
+	6.02902 4.3988 73,
+	6.78066 4.48373 45,
+	7.39216 4.45825 8,
+	"/>
+<ZContour name="d02zlen01" closed="false" border="0.000 1.000 0.251" fill="0.000 1.000 0.000" mode="11"
+ points="6.08963 4.44663 198,
+	6.05627 4.52168 191,
+	5.80055 4.8052 144,
+	5.50034 5.05815 113,
+	5.18902 5.23604 77,
+	4.95553 5.56682 42,
+	4.68035 5.82255 4,
+	"/>
+<ZContour name="d02zlen02" closed="false" border="0.500 0.000 1.000" fill="0.500 0.000 1.000" mode="-9"
+ points="4.69425 5.83923 4,
+	4.81377 5.73638 21,
+	5.11119 5.43062 55,
+	5.32801 5.12486 103,
+	5.62821 4.95808 129,
+	5.88671 4.73571 155,
+	6.08685 4.44385 198,
+	"/>
+<ZContour name="d02zlen03" closed="false" border="1.000 0.000 0.500" fill="1.000 0.000 0.500" mode="-9"
+ points="6.11187 4.42439 198,
+	6.09519 4.4772 193,
+	5.81444 4.76072 145,
+	5.56706 5.04147 117,
+	5.20848 5.2277 79,
+	4.96387 5.55292 42,
+	4.69147 5.81977 4,
+	"/>
+<ZContour name="d06zlen01" closed="false" border="1.000 0.502 0.000" fill="1.000 0.502 0.000" mode="-9"
+ points="4.32116 1.87924 183,
+	4.25967 1.9173 159,
+	3.97268 1.81188 132,
+	3.59492 1.63325 114,
+	3.37529 1.29063 58,
+	2.97996 1.49854 8,
+	"/>
+<ZContour name="d06zlen02" closed="false" border="1.000 0.502 0.000" fill="1.000 0.502 0.000" mode="-9"
+ points="2.98288 1.52197 8,
+	3.28158 1.59518 24,
+	3.30794 1.3082 88,
+	3.55099 1.57468 113,
+	3.93169 1.79431 131,
+	4.30652 1.89388 183,
+	"/>
+<ZContour name="d06zlen03" closed="false" border="1.000 0.502 0.000" fill="1.000 0.502 0.000" mode="-9"
+ points="4.32409 1.85581 183,
+	4.27724 1.90559 160,
+	3.99025 1.82652 133,
+	3.62713 1.62739 115,
+	3.32551 1.30527 58,
+	2.9946 1.51026 8,
+	"/>
+<ZContour name="d09zlen01" closed="false" border="1.000 0.502 0.000" fill="1.000 0.502 0.000" mode="-9"
+ points="1.37811 2.32962 158,
+	1.48692 2.4058 152,
+	1.50506 2.67421 134,
+	1.76259 2.84469 120,
+	1.92945 3.0188 112,
+	2.15071 3.21104 90,
+	2.32844 3.46858 74,
+	2.7492 3.8712 50,
+	2.89067 4.24844 33,
+	3.10467 4.4298 20,
+	"/>
+<ZContour name="d09zlen02" closed="false" border="1.000 0.502 0.000" fill="1.000 0.502 0.000" mode="-9"
+ points="3.11918 4.45156 20,
+	2.96684 4.33549 29,
+	2.81812 4.07795 42,
+	2.60049 3.7515 56,
+	2.24139 3.39241 81,
+	2.00925 3.07684 106,
+	1.83151 2.8991 118,
+	1.55221 2.75401 128,
+	1.43977 2.54726 148,
+	1.37085 2.33688 158,
+	"/>
+<ZContour name="d09zlen03" closed="false" border="1.000 0.502 0.000" fill="1.000 0.502 0.000" mode="-9"
+ points="1.35997 2.32962 158,
+	1.3636 2.35501 157,
+	1.43977 2.50736 149,
+	1.50143 2.6996 135,
+	1.75534 2.83744 121,
+	1.93307 2.99704 112,
+	2.15796 3.21467 90,
+	2.31756 3.46132 74,
+	2.7347 3.86395 50,
+	2.87616 4.24844 33,
+	3.11556 4.44431 20,
+	"/>
+</Series>
