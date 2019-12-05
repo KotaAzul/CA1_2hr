@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE Section SYSTEM "section.dtd">
+
+<Section index="20" thickness="0.046483" alignLocked="true">
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Image mag="0.00217927" contrast="1" brightness="0" red="true" green="true" blue="true"
+ src="LKJKD_und.000.jpg" />
+<Contour name="domain1" hidden="false" closed="true" simplified="false" border="1 0 1" fill="1 0 1" mode="11"
+ points="0 0,
+	4112 0,
+	4112 4096,
+	0 4096,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="domain2" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="7.80256 9.80679,
+	7.81248 4.48737,
+	"/>
+<Contour name="domain3" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="3.46564 3.96138,
+	8.93393 3.97131,
+	"/>
+<Contour name="domain4" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="5.07338 7.14708,
+	5.10315 1.80781,
+	"/>
+<Contour name="domain5" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="0.736457 5.52942,
+	6.1849 5.56912,
+	"/>
+<Contour name="domain6" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="9.44999 6.10503,
+	9.47976 0.775683,
+	"/>
+<Contour name="domain7" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="1.82813 7.13716,
+	7.26665 7.15701,
+	"/>
+<Contour name="domain8" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="0.69676 8.21891,
+	0.726533 2.85979,
+	"/>
+</Transform>
+
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="domain1" hidden="false" closed="false" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="1.25252 9.28081,
+	6.72081 9.28081,
+	"/>
+</Transform>
+
+</Section>
